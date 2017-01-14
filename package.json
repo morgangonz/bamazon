@@ -1,0 +1,14 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "week 12 mysql workbench hw",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^2.0.0"
+  }
+}
